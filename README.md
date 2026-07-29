@@ -1,20 +1,121 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ✨ LuxeGlow Studio
 
-# Run and deploy your AI Studio app
+A premium luxury salon and wellness website designed with a modern, elegant, and responsive user experience.
 
-This contains everything you need to run your app locally.
+Built using React, Tailwind CSS, and Framer Motion to deliver smooth animations, premium UI, and mobile-first performance.
 
-View your app in AI Studio: https://ai.studio/apps/aeb01d4c-2400-4697-bd81-c5b409452348
+---
 
-## Run Locally
+## 🌐 Live Demo
 
-**Prerequisites:**  Node.js
+https://luxeglow-studio-609638214778.asia-southeast1.run.app
 
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```
+
+---
+
+## 📸 Preview
+
+- Homepage
+- Services Section
+- Pricing
+- Testimonials
+- Contact
+- Mobile View
+
+---
+
+## 🚀 Features
+
+- ✨ Premium Luxury UI
+- 📱 Fully Responsive Design
+- 🎬 Smooth Framer Motion Animations
+- 💅 Services Showcase
+- 💎 Pricing Plans
+- ⭐ Customer Testimonials
+- 📅 Appointment Booking Section
+- 📍 Contact & Location Information
+- 🌙 Elegant Dark Theme
+- ⚡ Fast Loading Experience
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Tailwind CSS
+- Framer Motion
+- JavaScript
+- HTML5
+- CSS3
+- Google AI Studio
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ ├── pages/
+ ├── assets/
+ ├── hooks/
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## 🎯 Project Goal
+
+The objective of LuxeGlow Studio was to create a premium salon website that reflects elegance, luxury, and a modern digital experience while maintaining excellent responsiveness and user experience across all devices.
+
+---
+
+## 📱 Responsive Design
+
+Optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+---
+
+## ⚡ Performance
+
+Designed with a focus on:
+
+- Clean UI
+- Responsive Layout
+- Smooth Animations
+- Modern Design Principles
+- Accessibility
+
+---
+
+## 📈 Future Improvements
+
+- Online Appointment System
+- Authentication
+- Admin Dashboard
+- Payment Integration
+- CMS Support
+- Multi-language Support
+
+---
+
+## 👨‍💻 Developer
+
+**Vaibhav Bhardwaj**
+
+- GitHub: https://github.com/vaibhavstudio
+
+---
+
+## ⭐ If you like this project
+
+Please consider giving this repository a ⭐ on GitHub.
