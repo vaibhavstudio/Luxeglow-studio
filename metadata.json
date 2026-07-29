@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LuxeGlow Studio",
+  "description": "Luxury salon and beauty studio website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
