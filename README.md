@@ -2,14 +2,13 @@
 
 A premium luxury salon and wellness website designed with a modern, elegant, and responsive user experience.
 
-Built using React, Tailwind CSS, and Framer Motion to deliver smooth animations, premium UI, and mobile-first performance.
+Built using React, Tailwind CSS, and Framer Motion to deliver smooth animations, premium UI, and a mobile-first experience.
 
+---
 
 ## 🌐 Live Demo
 
-https://luxeglow-studio-609638214778.asia-southeast1.run.app
-
-```
+🔗 https://luxeglow-studio-609638214778.asia-southeast1.run.app
 
 ---
 
@@ -17,37 +16,37 @@ https://luxeglow-studio-609638214778.asia-southeast1.run.app
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/HOMEPAGE.png)
+![Homepage](./screenshots/HOMEPAGE.png)
 
 ---
 
 ### 💇 Services Section
 
-![Services](screenshots/SERVICES.png)
+![Services](./screenshots/SERVICES.png)
 
 ---
 
 ### 💰 Pricing
 
-![Pricing](screenshots/PRICING.png)
+![Pricing](./screenshots/PRICING.png)
 
 ---
 
 ### ⭐ Testimonials
 
-![Testimonials](screenshots/TESTIMONIALS.png)
+![Testimonials](./screenshots/TESTIMONIALS.png)
 
 ---
 
 ### 📞 Contact
 
-![Contact](screenshots/CONTACT.png)
+![Contact](./screenshots/CONTACT.png)
 
 ---
 
 ### 📱 Mobile View
 
-![Mobile View](screenshots/MOBILE%20VIEW.png)
+![Mobile View](./screenshots/MOBILE%20VIEW.png)
 
 ---
 
@@ -56,13 +55,13 @@ https://luxeglow-studio-609638214778.asia-southeast1.run.app
 - ✨ Premium Luxury UI
 - 📱 Fully Responsive Design
 - 🎬 Smooth Framer Motion Animations
-- 💅 Services Showcase
-- 💎 Pricing Plans
+- 💅 Luxury Services Showcase
+- 💎 Elegant Pricing Plans
 - ⭐ Customer Testimonials
 - 📅 Appointment Booking Section
 - 📍 Contact & Location Information
-- 🌙 Elegant Dark Theme
-- ⚡ Fast Loading Experience
+- 🌙 Modern Dark Theme
+- ⚡ Optimized Performance
 
 ---
 
@@ -71,7 +70,7 @@ https://luxeglow-studio-609638214778.asia-southeast1.run.app
 - React
 - Tailwind CSS
 - Framer Motion
-- JavaScript
+- JavaScript (ES6+)
 - HTML5
 - CSS3
 - Google AI Studio
@@ -80,21 +79,21 @@ https://luxeglow-studio-609638214778.asia-southeast1.run.app
 
 ## 📂 Project Structure
 
-```
+```text
 src/
- ├── components/
- ├── pages/
- ├── assets/
- ├── hooks/
- ├── App.jsx
- └── main.jsx
+├── components/
+├── pages/
+├── assets/
+├── hooks/
+├── App.jsx
+└── main.jsx
 ```
 
 ---
 
 ## 🎯 Project Goal
 
-The objective of LuxeGlow Studio was to create a premium salon website that reflects elegance, luxury, and a modern digital experience while maintaining excellent responsiveness and user experience across all devices.
+The objective of LuxeGlow Studio was to create a premium salon and wellness website that delivers an elegant user experience, modern UI design, smooth animations, and complete responsiveness across all devices.
 
 ---
 
@@ -102,10 +101,10 @@ The objective of LuxeGlow Studio was to create a premium salon website that refl
 
 Optimized for:
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile
+- 💻 Desktop
+- 💼 Laptop
+- 📱 Tablet
+- 📲 Mobile
 
 ---
 
@@ -118,16 +117,17 @@ Designed with a focus on:
 - Smooth Animations
 - Modern Design Principles
 - Accessibility
+- Fast Loading Experience
 
 ---
 
 ## 📈 Future Improvements
 
-- Online Appointment System
-- Authentication
+- Online Appointment Booking
+- User Authentication
 - Admin Dashboard
-- Payment Integration
-- CMS Support
+- Payment Gateway Integration
+- CMS Integration
 - Multi-language Support
 
 ---
@@ -140,6 +140,6 @@ Designed with a focus on:
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Please consider giving this repository a ⭐ on GitHub.
+If you like this project, please consider giving this repository a ⭐ on GitHub.
