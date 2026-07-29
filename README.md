@@ -18,12 +18,39 @@ https://luxeglow-studio-609638214778.asia-southeast1.run.app
 
 ## 📸 Preview
 
-- Homepage
-- Services Section
-- Pricing
-- Testimonials
-- Contact
-- Mobile View
+### 🏠 Homepage
+
+![Homepage](screenshots/HOMEPAGE.png)
+
+---
+
+### 💇 Services Section
+
+![Services](screenshots/SERVICES.png)
+
+---
+
+### 💰 Pricing
+
+![Pricing](screenshots/PRICING.png)
+
+---
+
+### ⭐ Testimonials
+
+![Testimonials](screenshots/TESTIMONIALS.png)
+
+---
+
+### 📞 Contact
+
+![Contact](screenshots/CONTACT.png)
+
+---
+
+### 📱 Mobile View
+
+![Mobile View](screenshots/MOBILE%20VIEW.png)
 
 ---
 
