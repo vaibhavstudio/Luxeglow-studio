@@ -4,13 +4,10 @@ A premium luxury salon and wellness website designed with a modern, elegant, and
 
 Built using React, Tailwind CSS, and Framer Motion to deliver smooth animations, premium UI, and mobile-first performance.
 
----
 
 ## 🌐 Live Demo
 
 https://luxeglow-studio-609638214778.asia-southeast1.run.app
-
-```
 
 ```
 
